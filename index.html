@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>SS_final</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <link
+        href="https://fonts.googleapis.com/css?family=Cormorant+Unicase:400,700|Noto+Sans+TC|Noto+Serif+TC:400,700|Source+Sans+Pro&amp;subset=chinese-traditional"
+        rel="stylesheet">
+    <style>
+        /* fonts */
+        @import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+        .hiddenText {
+            font-family: Orbitron;
+            visibility: hidden;
+            height: 0px;
+        }
+
+        .canvas {
+            margin: auto;
+        }
+
+        #fixed_block {
+            position: absolute;
+            top: -50px;
+            left: 125px;
+            width: 650px;
+            height: 400px;
+            background-color: rgba(86, 163, 86, 0.829);
+            font-size: 1.5em;
+            z-index: 100;
+            overflow: auto;
+            word-break: break-all;
+            border-radius: 10px;
+            color: white;
+            margin-top: 100px;
+            font-family: 'Source Sans Pro',
+                'Noto Serif TC',
+                serif;
+        }
+
+        #cancel_fixed_block_button {
+            position: absolute;
+            top: 5px;
+            right: 10px;
+        }
+        #score_board{
+            margin-top: 5%;
+            margin-left: 5%; 
+            border:2px,solid,white;
+        }
+        .profile_pic{
+            margin: 0px;
+            height: 60px;
+            width: auto;
+            border-radius: 30px;
+        }
+        /*the score board bar*/
+        #myProgress {
+            width: 80%;
+            background-color: rgb(73, 66, 66);
+            border-radius: 30px;
+        }
+        #myBar1,#myBar2,#myBar3 {
+            width: 1%;
+            height: 30px;
+            background-color: rgba(101, 168, 255, 0.808);
+            border-radius: 30px;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <p class='hiddenText'> . </p>
+    <div class='canvas' id='canvas'>
+        <div id="fixed_block">
+            <i class="fas fa-times" id="cancel_fixed_block_button" onclick="fixed_block_hide_all(300)"></i>
+            <div id="score_board"></div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.4.0.js"
+        integrity="sha256-DYZMCC8HTC+QDr5QNaIcfR7VSPtcISykd+6eSmBW5qo=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/phaser-ce/2.12.0/phaser.min.js"></script>
+    <script type="text/javascript" src="./js/menu.js"></script>
+    <script type="text/javascript" src="./js/play.js"></script>
+    <script type="text/javascript" src="./js/win.js"></script>
+    <script type="text/javascript" src="./js/select.js"></script>
+    <script type="text/javascript" src="./js/about.js"></script>
+    <script type="text/javascript" src="./js/load.js"></script>
+    <script type="text/javascript" src="./js/game.js"></script>
+    <script>
+        //global variables declaration
+        var classes;
+        var mode;
+        var WINPLAYER = 'player1';
+    </script>
+</body>
+
+</html>
