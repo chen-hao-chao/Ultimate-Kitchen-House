@@ -7,3 +7,11 @@ This this the final project of the course, Software Studio. We want to create a 
 - canvas size：900*450
 - game state: menu -> load -> play -> win -> back to menu ...
 <img src="https://i.imgur.com/aMZyQ05.png" width="356px" height="105px">
+
+## Game screenshoots
+![](https://i.imgur.com/u7H1m6U.gif)
+![](https://i.imgur.com/137iufl.gif)
+![](https://i.imgur.com/XMNrZM9.gif)
+
+## Web address
+https://106000103.gitlab.io/ss_final
