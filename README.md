@@ -9,9 +9,9 @@ This this the final project of the course, Software Studio. We want to create a 
 <img src="https://i.imgur.com/aMZyQ05.png" width="356px" height="105px">
 
 ## Game screenshoots
-![](https://i.imgur.com/u7H1m6U.gif)
-![](https://i.imgur.com/137iufl.gif)
-![](https://i.imgur.com/XMNrZM9.gif)
+| game screenshoot 1 | game screenshoot 2 | game screenshoot 3 |
+| ![](https://i.imgur.com/DIAaQsj.gif) | ![](https://i.imgur.com/GTlcfkk.gif) | ![](https://i.imgur.com/pP5dZzK.gif) |
+| :----------------------------------: | :----------------------------------: | :----------------------------------: |
 
 ## Web address
 https://106000103.gitlab.io/ss_final
