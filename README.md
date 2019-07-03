@@ -11,7 +11,7 @@ This this the final project of the course, Software Studio. We want to create a 
 ## Game screenshoots
 | game screenshoot 1 | game screenshoot 2 | game screenshoot 3 |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
-| ![](https://i.imgur.com/DIAaQsj.gif) | ![](https://i.imgur.com/6hoP4Rv.gif) | ![](https://i.imgur.com/pP5dZzK.gif) |
+| ![](https://i.imgur.com/DIAaQsj.gif) | ![](https://i.imgur.com/8I1Eajw.gif) | ![](https://i.imgur.com/pP5dZzK.gif) |
 
 
 ## Web address
