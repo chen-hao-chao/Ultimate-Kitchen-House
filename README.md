@@ -8,6 +8,8 @@ This is the final project of the course Software Studio. We aimed to create a ga
 - game state: menu -> load -> play -> win -> back to menu ...
 <img src="https://i.imgur.com/aMZyQ05.png" width="356px" height="105px">
 
+> All the icons in the game are drawn by myself and opened to download. Please refer the the "asset/image" directory.
+
 ## Game screenshoots
 | game screenshoot 1 | game screenshoot 2 | game screenshoot 3 |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
