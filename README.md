@@ -1,7 +1,7 @@
 # Ultimate Kitchen House
 
 ## introduction
-This this the final project of the course Software Studio. We aim to create a game that has similar game mechanism to Ultimate Chicken Hourse, which is a quite famous game on Steam. The main idea is that almost every horizontally-scrolling AVG has unchangable game map, and in case the player has accomplished certain sections, he/she will undesire to play it again. As a result, instead of building the game map in advance, we let the players to build the game map by themselves. (Obviously, this not only reduces tasks of game designers but also increase fun of players.)
+This is the final project of the course Software Studio. We aimed to create a game that has similar game mechanism to Ultimate Chicken Hourse, which is a quite famous game on Steam. Since almost every horizontally-scrolling AVG has unchangable game map, and in case the player has accomplished certain sections, he/she would be unwilling to play it again. As a result, instead of building the map by game designers, the players in the game are required to build maps by themselves, which is regarded as one of the characteristics of this game.
 
 ## Architecture and Settings
 - canvas size：900*450
@@ -18,6 +18,12 @@ https://106000103.gitlab.io/ss_final
 
 ## More Games
 
-| Raiden |  |  |  |
-| :-: | :-: | :-: | :-: |
-| <img src="https://i.imgur.com/AhhB68t.png" height="200px"> |  |  |  |
+| Raiden | BOBOPO |
+| :-: | :-: |
+| <img src="https://i.imgur.com/AhhB68t.png" height="100px"> | <img src="https://i.imgur.com/CqoJ4md.png" height="100px"> |
+| https://github.com/lance27866854/Raiden | https://github.com/lance27866854/BOBOPO |
+
+| Battle Llama 2 | Battle Llama |
+| :-: | :-: |
+| <img src="https://i.imgur.com/NzwwF54.png" height="100px"> | <img src="https://i.imgur.com/wFXYTwk.png" height="100px"> |
+| https://github.com/lance27866854/Battle-llama2 | https://github.com/lance27866854/Battle-Llama |
