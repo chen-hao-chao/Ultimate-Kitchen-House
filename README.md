@@ -22,8 +22,6 @@ https://106000103.gitlab.io/ss_final
 | :-: | :-: |
 | <img src="https://i.imgur.com/AhhB68t.png" height="100px"> | <img src="https://i.imgur.com/CqoJ4md.png" height="100px"> |
 | https://github.com/lance27866854/Raiden | https://github.com/lance27866854/BOBOPO |
-
 | Battle Llama 2 | Battle Llama |
-| :-: | :-: |
 | <img src="https://i.imgur.com/NzwwF54.png" height="100px"> | <img src="https://i.imgur.com/wFXYTwk.png" height="100px"> |
 | https://github.com/lance27866854/Battle-llama2 | https://github.com/lance27866854/Battle-Llama |
