@@ -15,10 +15,17 @@ This is the final project of the course Software Studio. We aimed to create a ga
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
 | ![](https://i.imgur.com/DIAaQsj.gif) | ![](https://i.imgur.com/8I1Eajw.gif) | ![](https://i.imgur.com/pP5dZzK.gif) |
 
+## Contributors
+Chen-Hao, Chao </br>
+Jia-Cheng, Jiang </br>
+Chen-Wei, Huang </br>
+Sheng-Yuan, Zheng </br>
+NTHU CS
+
 ## Web Address
 https://106000103.gitlab.io/ss_final
 
-## More Games
+## More
 
 | Raiden | BOBOPO |
 | :-: | :-: |
